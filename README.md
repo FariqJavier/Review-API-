@@ -8,4 +8,5 @@ Endpointnya antara lain:
 1. 127.0.0.1/api/users
 2. 127.0.0.1/api/sessions (Get dan Delete butuh authorizasi)
 3. 127.0.0.1/api/products (Post, Update, dan Delete butuh authorizasi)
+
 Dokumentasinya berupa Postman-Collection dan Open-API
